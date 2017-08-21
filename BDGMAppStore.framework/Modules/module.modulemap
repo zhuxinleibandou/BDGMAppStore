@@ -1,0 +1,6 @@
+framework module BDGMAppStore {
+  umbrella header "BDGMAppStore.h"
+
+  export *
+  module * { export * }
+}
